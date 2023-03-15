@@ -3,16 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "lognorm"]
-	path = lognorm
-	url = https://github.com/bgctw/lognorm
-	shallow = true
-	registered = true
-[submodule "REddyProc"]
-	path = REddyProc
-	url = https://github.com/bgctw/reddyproc
-	shallow = true
-	registered = true
 [submodule "REddyProcNCDF"]
 	path = REddyProcNCDF
 	url = https://github.com/bgctw/reddyprocncdf
@@ -21,5 +11,15 @@
 [submodule "solartime"]
 	path = solartime
 	url = https://github.com/bgctw/solartime
+	shallow = true
+	registered = true
+[submodule "lognorm"]
+	path = lognorm
+	url = https://github.com/bgctw/lognorm
+	shallow = true
+	registered = true
+[submodule "REddyProc"]
+	path = REddyProc
+	url = https://github.com/bgctw/reddyproc
 	shallow = true
 	registered = true
