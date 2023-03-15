@@ -1,18 +1,18 @@
 [
   {
-    "package": "REddyProcNCDF",
-    "oncran": true
-  },
-  {
-    "package": "solartime",
-    "oncran": true
-  },
-  {
     "package": "lognorm",
     "oncran": true
   },
   {
     "package": "REddyProc",
+    "oncran": true
+  },
+  {
+    "package": "REddyProcNCDF",
+    "oncran": true
+  },
+  {
+    "package": "solartime",
     "oncran": true
   }
 ]
