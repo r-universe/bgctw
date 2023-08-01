@@ -2,18 +2,18 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "logitnorm"]
-	path = logitnorm
-	url = https://github.com/bgctw/logitnorm
-[submodule "lognorm"]
-	path = lognorm
-	url = https://github.com/bgctw/lognorm
 [submodule "REddyProc"]
 	path = REddyProc
 	url = https://github.com/bgctw/reddyproc
 [submodule "REddyProcNCDF"]
 	path = REddyProcNCDF
 	url = https://github.com/bgctw/reddyprocncdf
+[submodule "logitnorm"]
+	path = logitnorm
+	url = https://github.com/bgctw/logitnorm
+[submodule "lognorm"]
+	path = lognorm
+	url = https://github.com/bgctw/lognorm
 [submodule "solartime"]
 	path = solartime
 	url = https://github.com/bgctw/solartime
