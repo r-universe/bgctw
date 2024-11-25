@@ -4,7 +4,8 @@
 	branch = HEAD
 [submodule "REddyProc"]
 	path = REddyProc
-	url = https://github.com/bgctw/reddyproc
+	url = https://github.com/bgctw/REddyProc
+	registered = false
 [submodule "REddyProcNCDF"]
 	path = REddyProcNCDF
 	url = https://github.com/bgctw/reddyprocncdf
@@ -14,6 +15,3 @@
 [submodule "lognorm"]
 	path = lognorm
 	url = https://github.com/bgctw/lognorm
-[submodule "solartime"]
-	path = solartime
-	url = https://github.com/bgctw/solartime
